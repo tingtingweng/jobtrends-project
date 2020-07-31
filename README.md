@@ -1,19 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Job Trends Page
 
-You can use the [editor on GitHub](https://github.com/tingtingweng/jobtrends-project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+On this page we show the analyzing result from GoValley summer intern project. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+# Data Science Job Trends
+## Software Engineer Job Trends
+### Maps
 
 - Bulleted
 - List
